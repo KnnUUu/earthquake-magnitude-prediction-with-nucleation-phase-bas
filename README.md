@@ -1,4 +1,4 @@
-# earthquake-magnitude-prediction-with-nucleation-phase-bas
+# Earthquake Magnitude Prediction with Seismic Nucleation Phase based on Machine Learning
 Verify one traditional seismic question with Machine Learning approaches and trying to implement on earthquake prediction
 -	Data extraction from a national seismometer network called Hi-net, convert its format from SAC to CSV
 -	Process, analyze, and create visualizations of data by using Pandas, NumPy, and Matplotlib
