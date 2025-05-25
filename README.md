@@ -1,0 +1,1 @@
+# earthquake-magnitude-prediction-with-nucleation-phase-bas
